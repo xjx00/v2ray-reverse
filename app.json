@@ -1,0 +1,14 @@
+{
+    "name": "V2Ray Reverse",
+    "description": "Deploy V2ray Reverse on Heroku.",
+    "keywords": ["V2Ray Reverse"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/xjx00/v2ray-reverse",
+    "stack": "container"
+}
